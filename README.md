@@ -1,3 +1,5 @@
+This was made from following the [PWA-Experiment tutorial](https://engineering.musefind.com/build-your-first-progressive-web-app-with-react-8e1449c575cd) (omitting the last Firebase step).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
